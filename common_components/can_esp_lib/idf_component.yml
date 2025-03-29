@@ -1,0 +1,32 @@
+description: CAN-ESP-LIB – ESP32 CAN-based network Library for Electric Vehicles
+
+version: "0.9.0"
+
+license: "LGPL (Lesser GPL)"
+
+maintainers:
+  - "Danilo Moura Pereira <danilo.moura@uesb.edu.br>"
+
+files:
+   use_gitignore: true
+
+repository: "https://github.com/danilo-moura-pereira/CAN-ESP-LIB"
+# url: https://github.com/danilo-moura-pereira/CAN-ESP-LIB
+# issues: 
+# documentation: 
+
+examples:
+  - path: examples/selftest
+
+dependencies:
+  # Requires TWAI driver version 2 added in v5.3.1
+  idf: ">=5.3.1"
+
+tags:
+  - TWAI
+  - CAN
+  - Eletric_Vehicles
+  - EVs
+  - OTA
+  - ESP-WIFI-MESH
+  

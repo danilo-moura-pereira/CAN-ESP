@@ -1,0 +1,16 @@
+# files
+sdkconfig
+sdkconfig.old
+sdkconfig.defaults
+
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# folders
+build/
+docs/
+.vscode/
+backup/
+
