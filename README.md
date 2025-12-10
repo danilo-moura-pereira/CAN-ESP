@@ -54,5 +54,5 @@ Este projeto está licenciado sob GNU Lesser General Public License v3.0 (LGPLv3
 
 ## Contato 
 Autor: Danilo Moura Pereira
-E-mail:danilo.mourapereira@gmail.com
+E-mail: danilo.mourapereira@gmail.com
 
