@@ -5,7 +5,7 @@
 ![CAN Bus](https://img.shields.io/badge/Protocol-CAN%202.0B-orange.svg)  
 
 ## Visão Geral 
-O CAN-ESPé uma implementação de baixo custo de uma rede CAN (Controller Area Network)para veículos elétricos e sistemas embarcados, baseada no microcontrolador ESP32e no protocolo TWAI(compatível com ISO 11898).  
+O CAN-ESP é uma implementação de baixo custo de uma rede CAN (Controller Area Network)para veículos elétricos e sistemas embarcados, baseada no microcontrolador ESP32e no protocolo TWAI(compatível com ISO 11898).  
 
 ### Principais Recursos 
 ✔ Baixo custo(utiliza ESP32 em vez de soluções caras como Raspberry Pi).  
